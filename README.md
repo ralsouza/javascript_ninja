@@ -1,2 +1,2 @@
-# javascript_ninja
-Estudos sobre o treinamento de JavaScript
+# JavaScript Ninja
+Estudos sobre o treinamento de JavaScript.
